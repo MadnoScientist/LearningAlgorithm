@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearningAlgor.iml" filepath="$PROJECT_DIR$/LearningAlgor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_BFSDFS/_BFSDFS.iml" filepath="$PROJECT_DIR$/_BFSDFS/_BFSDFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_DoublePointer/_DoublePointer.iml" filepath="$PROJECT_DIR$/_DoublePointer/_DoublePointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_DynamicProgamming/_DynamicProgamming.iml" filepath="$PROJECT_DIR$/_DynamicProgamming/_DynamicProgamming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Greedy/_Greedy.iml" filepath="$PROJECT_DIR$/_Greedy/_Greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_LinkedList/_LinkedList.iml" filepath="$PROJECT_DIR$/_LinkedList/_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_StackAndQueue/_StackAndQueue.iml" filepath="$PROJECT_DIR$/_StackAndQueue/_StackAndQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_TreeAndGraph/_TreeAndGraph.iml" filepath="$PROJECT_DIR$/_TreeAndGraph/_TreeAndGraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_UnionFind/_UnionFind.iml" filepath="$PROJECT_DIR$/_UnionFind/_UnionFind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/__Sword/__Sword.iml" filepath="$PROJECT_DIR$/__Sword/__Sword.iml" />
+    </modules>
+  </component>
+</project>
