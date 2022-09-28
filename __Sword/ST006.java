@@ -8,7 +8,7 @@
 * */
 import java.util.*;
 
-public class ST06 {
+public class ST006 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

@@ -2,13 +2,13 @@
 
 import java.util.Scanner;
 
-public class ST05 {
+public class ST005 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String s = in.nextLine();
-        String res1 = ST05_Solution.replaceSpace1(s);
-        String res2 = ST05_Solution.replaceSpace2(s);
-        String res3 = ST05_Solution.replaceSpace3(s);
+        String res1 = ST005_Solution.replaceSpace1(s);
+        String res2 = ST005_Solution.replaceSpace2(s);
+        String res3 = ST005_Solution.replaceSpace3(s);
         assert (res1.equals(res2) && res2.equals(res3));
 
     }
@@ -16,7 +16,7 @@ public class ST05 {
 
 }
 
-class ST05_Solution {
+class ST005_Solution {
     public static String replaceSpace1(String s) {
         StringBuilder sb = new StringBuilder();
         int j = 0;
