@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * 剑指 031 - LRU (Least recently used) cache
  * 运用所掌握的数据结构，设计和实现一个 LRU (Least Recently Used，最近最少使用) 缓存机制 。
@@ -9,9 +12,6 @@
  *      当缓存容量达到上限时，它应该在写入新数据之前删除最久未使用的数据值，从而为新的数据值留出空间。
  *
  */
-
-import java.util.HashMap;
-import java.util.Map;
 
 public class ST031 {
     class LRUCache {
